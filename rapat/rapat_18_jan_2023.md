@@ -2,22 +2,22 @@
 
 ## Table Of Contents
 
-- ### [Penjelasan Bidang]()
+- ### [Penjelasan Bidang](#penjelasan-bidang)
   - [Divisi Humas](#divisi-humas)
   - [Divisi Seni Dan Kreatif](#divisi-seni-dan-kreatif)
   - [Divisi Olahraga](#divisi-olahraga)
   - [Divisi Kewirausahaan](#divisi-kewirausahaan)
   - [Divisi Kerohanian](#divisi-kerohanian)
-- ### Penentuan Anggota
+- ### [Penentuan Anggota](#penentuan-anggota)
   - [Penentuan Anggota berdasarkan minat]()
-- ### Agenda 2 bulan kedepan
+- ### [Agenda 2 bulan kedepan](#agenda-2-bulan-kedepan)
   - [Pengajian Remaja]()
   - [Isra miraj]() Optional
   - [Rutinitas Badminton]()
   - [Foto Anggota]()
   - [Bikin Server Discord]()
 
-## Penjelasan Bidang
+## penjelasan-bidang
 
 - ### divisi-humas
 
@@ -43,7 +43,7 @@
 
   - Merencanakan kegiatan olahraga bersama untuk anggota dan masyarakat.
 
-  ### divisi-kewirausahaan
+- ### divisi-kewirausahaan
 
   Divisi yang mengerjakan segala sesuatu yang berhubungan dengan kewirausahaan.
 
@@ -51,7 +51,7 @@
 
   - Meningkatkan kemampuan kewirausahaan di kalangan anggota.
 
-  ### divisi-kerohanian
+- ### divisi-kerohanian
 
   Divisi yang mengerjakan segala sesuatu yang berhubungan dengan kerohanian.
 
@@ -59,5 +59,5 @@
 
   - Sebagai wadah anggota untuk mengembangkan bidang keagamaan.
 
-- ## Penentuan Anggota
-- ## Agenda 2 bulan kedepan
+- ## penentuan-anggota
+- ## agenda-2-bulan-kedepan
